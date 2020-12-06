@@ -34,6 +34,7 @@ namespace MeetingScheduler
             listResults1.Items.Clear();
             listResults2.Items.Clear();
             listResults3.Items.Clear();
+            // Test lol
         }
 
         public void foundMeeting()
